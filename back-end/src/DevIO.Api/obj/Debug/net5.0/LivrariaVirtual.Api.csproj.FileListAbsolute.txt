@@ -1,0 +1,324 @@
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\obj\Debug\net5.0\LivrariaVirtual.Api.csproj.AssemblyReference.cache
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\obj\Debug\net5.0\LivrariaVirtual.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\obj\Debug\net5.0\LivrariaVirtual.Api.AssemblyInfoInputs.cache
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\obj\Debug\net5.0\LivrariaVirtual.Api.AssemblyInfo.cs
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\obj\Debug\net5.0\LivrariaVirtual.Api.csproj.CoreCompileInputs.cache
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\obj\Debug\net5.0\LivrariaVirtual.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\obj\Debug\net5.0\LivrariaVirtual.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\appsettings.json
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\appsettings.Production.Development.json
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\appsettings.Production.json
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\appsettings.Staging.json
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\LivrariaVirtual.Api.StaticWebAssets.xml
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\LivrariaVirtual.Api.exe
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\LivrariaVirtual.Api.deps.json
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\LivrariaVirtual.Api.runtimeconfig.json
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\LivrariaVirtual.Api.runtimeconfig.dev.json
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\LivrariaVirtual.Api.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\ref\LivrariaVirtual.Api.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\LivrariaVirtual.Api.pdb
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\HealthChecks.SqlServer.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\HealthChecks.UI.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\HealthChecks.UI.Core.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\Elmah.Io.AspNetCore.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\Elmah.Io.AspNetCore.HealthChecks.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\Elmah.Io.Client.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\Elmah.Io.Extensions.Logging.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\Fractions.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\Humanizer.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\KubernetesClient.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.Design.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.Rest.ClientRuntime.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\YamlDotNet.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\LivrariaVirtual.Business.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\LivrariaVirtual.Data.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\LivrariaVirtual.Business.pdb
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\bin\Debug\net5.0\LivrariaVirtual.Data.pdb
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\obj\Debug\net5.0\staticwebassets\LivrariaVirtual.Api.StaticWebAssets.Manifest.cache
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\obj\Debug\net5.0\staticwebassets\LivrariaVirtual.Api.StaticWebAssets.xml
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\obj\Debug\net5.0\scopedcss\bundle\LivrariaVirtual.Api.styles.css
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\obj\Debug\net5.0\LivrariaVirtual.Api.RazorTargetAssemblyInfo.cache
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\obj\Debug\net5.0\LivrariaVirtual.Api.csproj.CopyComplete
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\obj\Debug\net5.0\LivrariaVirtual.Api.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\obj\Debug\net5.0\ref\LivrariaVirtual.Api.dll
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\obj\Debug\net5.0\LivrariaVirtual.Api.pdb
+C:\Users\porff\OneDrive - incubate web-enabled systems\Documentos\back-end\src\DevIO.Api\obj\Debug\net5.0\LivrariaVirtual.Api.genruntimeconfig.cache
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\appsettings.json
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\appsettings.Production.Development.json
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\appsettings.Production.json
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\appsettings.Staging.json
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\LivrariaVirtual.Api.StaticWebAssets.xml
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\LivrariaVirtual.Api.exe
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\LivrariaVirtual.Api.deps.json
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\LivrariaVirtual.Api.runtimeconfig.json
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\LivrariaVirtual.Api.runtimeconfig.dev.json
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\LivrariaVirtual.Api.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\ref\LivrariaVirtual.Api.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\LivrariaVirtual.Api.pdb
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\HealthChecks.SqlServer.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\HealthChecks.UI.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\HealthChecks.UI.Core.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\AutoMapper.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\Elmah.Io.AspNetCore.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\Elmah.Io.AspNetCore.HealthChecks.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\Elmah.Io.Client.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\Elmah.Io.Extensions.Logging.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\FluentValidation.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\Fractions.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\Humanizer.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\KubernetesClient.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.Design.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.Rest.ClientRuntime.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\YamlDotNet.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\LivrariaVirtual.Business.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\LivrariaVirtual.Data.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\LivrariaVirtual.Business.pdb
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\LivrariaVirtual.Data.pdb
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\obj\Debug\net5.0\LivrariaVirtual.Api.csproj.AssemblyReference.cache
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\obj\Debug\net5.0\LivrariaVirtual.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\obj\Debug\net5.0\LivrariaVirtual.Api.AssemblyInfoInputs.cache
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\obj\Debug\net5.0\LivrariaVirtual.Api.AssemblyInfo.cs
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\obj\Debug\net5.0\LivrariaVirtual.Api.csproj.CoreCompileInputs.cache
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\obj\Debug\net5.0\LivrariaVirtual.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\obj\Debug\net5.0\LivrariaVirtual.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\obj\Debug\net5.0\staticwebassets\LivrariaVirtual.Api.StaticWebAssets.Manifest.cache
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\obj\Debug\net5.0\staticwebassets\LivrariaVirtual.Api.StaticWebAssets.xml
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\obj\Debug\net5.0\scopedcss\bundle\LivrariaVirtual.Api.styles.css
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\obj\Debug\net5.0\LivrariaVirtual.Api.RazorTargetAssemblyInfo.cache
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\obj\Debug\net5.0\LivrariaVirtual.Api.csproj.CopyComplete
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\obj\Debug\net5.0\LivrariaVirtual.Api.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\obj\Debug\net5.0\ref\LivrariaVirtual.Api.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\obj\Debug\net5.0\LivrariaVirtual.Api.pdb
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Api\obj\Debug\net5.0\LivrariaVirtual.Api.genruntimeconfig.cache
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\web.config
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\appsettings.Development.json
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\appsettings.json
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\appsettings.Production.Development.json
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\appsettings.Production.json
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\appsettings.Staging.json
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\LivrariaVirtual.Api.StaticWebAssets.xml
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\LivrariaVirtual.Api.exe
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\LivrariaVirtual.Api.deps.json
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\LivrariaVirtual.Api.runtimeconfig.json
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\LivrariaVirtual.Api.runtimeconfig.dev.json
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\LivrariaVirtual.Api.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\LivrariaVirtual.Api.pdb
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\HealthChecks.SqlServer.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\HealthChecks.UI.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\HealthChecks.UI.Core.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\AutoMapper.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\Elmah.Io.AspNetCore.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\Elmah.Io.AspNetCore.HealthChecks.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\Elmah.Io.Client.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\Elmah.Io.Extensions.Logging.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\FluentValidation.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\Fractions.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\Humanizer.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\KubernetesClient.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.Design.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\Microsoft.Rest.ClientRuntime.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\YamlDotNet.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\LivrariaVirtual.Business.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\LivrariaVirtual.Data.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\LivrariaVirtual.Business.pdb
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\bin\Debug\net5.0\LivrariaVirtual.Data.pdb
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\obj\Debug\net5.0\LivrariaVirtual.Api.csproj.AssemblyReference.cache
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\obj\Debug\net5.0\LivrariaVirtual.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\obj\Debug\net5.0\LivrariaVirtual.Api.AssemblyInfoInputs.cache
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\obj\Debug\net5.0\LivrariaVirtual.Api.AssemblyInfo.cs
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\obj\Debug\net5.0\LivrariaVirtual.Api.csproj.CoreCompileInputs.cache
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\obj\Debug\net5.0\LivrariaVirtual.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\obj\Debug\net5.0\LivrariaVirtual.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\obj\Debug\net5.0\scopedcss\bundle\LivrariaVirtual.Api.styles.css
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\obj\Debug\net5.0\staticwebassets\LivrariaVirtual.Api.StaticWebAssets.Manifest.cache
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\obj\Debug\net5.0\staticwebassets\LivrariaVirtual.Api.StaticWebAssets.xml
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\obj\Debug\net5.0\LivrariaVirtual.Api.RazorTargetAssemblyInfo.cache
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\obj\Debug\net5.0\LivrariaVirtual.Api.csproj.CopyComplete
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\obj\Debug\net5.0\LivrariaVirtual.Api.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\obj\Debug\net5.0\refint\LivrariaVirtual.Api.dll
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\obj\Debug\net5.0\LivrariaVirtual.Api.pdb
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\obj\Debug\net5.0\LivrariaVirtual.Api.genruntimeconfig.cache
+D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\obj\Debug\net5.0\ref\LivrariaVirtual.Api.dll

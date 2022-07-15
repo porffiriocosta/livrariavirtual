@@ -1,0 +1,13 @@
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Data\bin\Debug\netcoreapp3.1\LivrariaVirtual.Data.deps.json
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Data\bin\Debug\netcoreapp3.1\LivrariaVirtual.Data.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Data\bin\Debug\netcoreapp3.1\LivrariaVirtual.Data.pdb
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Data\bin\Debug\netcoreapp3.1\LivrariaVirtual.Business.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Data\bin\Debug\netcoreapp3.1\LivrariaVirtual.Business.pdb
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Data\obj\Debug\netcoreapp3.1\LivrariaVirtual.Data.csproj.AssemblyReference.cache
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Data\obj\Debug\netcoreapp3.1\LivrariaVirtual.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Data\obj\Debug\netcoreapp3.1\LivrariaVirtual.Data.AssemblyInfoInputs.cache
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Data\obj\Debug\netcoreapp3.1\LivrariaVirtual.Data.AssemblyInfo.cs
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Data\obj\Debug\netcoreapp3.1\LivrariaVirtual.Data.csproj.CoreCompileInputs.cache
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Data\obj\Debug\netcoreapp3.1\LivrariaVirtual.Data.csproj.CopyComplete
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Data\obj\Debug\netcoreapp3.1\LivrariaVirtual.Data.dll
+C:\AngularProjetos\livraria-virtual\back-end\src\DevIO.Data\obj\Debug\netcoreapp3.1\LivrariaVirtual.Data.pdb
