@@ -323,12 +323,12 @@ D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\obj\Debug\net5.0\Liv
 D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\obj\Debug\net5.0\LivrariaVirtual.Api.genruntimeconfig.cache
 D:\_Projetos\livraria-virtual-master\back-end\src\DevIO.Api\obj\Debug\net5.0\ref\LivrariaVirtual.Api.dll
 D:\_Projetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\web.config
+D:\_Projetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\appsettings.Development.json
 D:\_Projetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\appsettings.json
 D:\_Projetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\appsettings.Production.Development.json
+D:\_Projetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\appsettings.Production.json
 D:\_Projetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\appsettings.Staging.json
 D:\_Projetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\LivrariaVirtual.Api.StaticWebAssets.xml
-D:\_Projetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\appsettings.Development.json
-D:\_Projetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\appsettings.Production.json
 D:\_Projetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\LivrariaVirtual.Api.exe
 D:\_Projetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\LivrariaVirtual.Api.deps.json
 D:\_Projetos\livraria-virtual\back-end\src\DevIO.Api\bin\Debug\net5.0\LivrariaVirtual.Api.runtimeconfig.json
