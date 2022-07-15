@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/VQQz28BbydJR59d4kxOilWMCyAskcaYZ/ze0w0hWVeRbXz7tv5VR2ZncoaC1BWFsTEityPK4LVKMgN/HcY5oA==",
+  "dgSpecHash": "/OauFA8bLnhDoA/vU/q3gFdFIA+RvztC5YCZzmYOaWJiqQctqhSA0L3eoJfT1tKm2oGcWIX6ZuScqBl2wAltow==",
   "success": true,
-  "projectFilePath": "D:\\_Projetos\\livraria-virtual-master\\back-end\\src\\DevIO.Business\\LivrariaVirtual.Business.csproj",
+  "projectFilePath": "D:\\_Projetos\\livraria-virtual\\back-end\\src\\DevIO.Business\\LivrariaVirtual.Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\porff\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
     "C:\\Users\\porff\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"

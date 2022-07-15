@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BFerpnStMK375Tww2iwJUArx+SnpG9y2D9bqc3kuvE+d0gzVtVptX35hNIyApDBghTeSWAGctsQT3e7ZpYxqvA==",
+  "dgSpecHash": "mT17fWRIZ2I4Hu6vyQyfldsyS9uyWg1kFq/TXH36Osvsoqlqxq3RyFF3a3fUa4tAPmMkyXlneL+AVEP6b7bZ/g==",
   "success": true,
-  "projectFilePath": "D:\\_Projetos\\livraria-virtual-master\\back-end\\src\\DevIO.Data\\LivrariaVirtual.Data.csproj",
+  "projectFilePath": "D:\\_Projetos\\livraria-virtual\\back-end\\src\\DevIO.Data\\LivrariaVirtual.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\porff\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
     "C:\\Users\\porff\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

@@ -1,5 +1,5 @@
 export const environment = {
   production: true,
-  apiUrlv1: 'https://livrariavirtualapi.azurewebsites.net/api/v1/',
-  imagensUrl: 'https://livrariavirtualapi.azurewebsites.net/'
+  apiUrlv1: 'https://www.livrariavirtual.net.br/api/v1/',
+  imagensUrl: 'https://www.livrariavirtual.net.br/'
 };

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\_Projetos\\livraria-virtual-master\\back-end\\src\\DevIO.Api\\LivrariaVirtual.Api.csproj": {}
+    "D:\\_Projetos\\livraria-virtual\\back-end\\src\\DevIO.Api\\LivrariaVirtual.Api.csproj": {}
   },
   "projects": {
-    "D:\\_Projetos\\livraria-virtual-master\\back-end\\src\\DevIO.Api\\LivrariaVirtual.Api.csproj": {
+    "D:\\_Projetos\\livraria-virtual\\back-end\\src\\DevIO.Api\\LivrariaVirtual.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\_Projetos\\livraria-virtual-master\\back-end\\src\\DevIO.Api\\LivrariaVirtual.Api.csproj",
+        "projectUniqueName": "D:\\_Projetos\\livraria-virtual\\back-end\\src\\DevIO.Api\\LivrariaVirtual.Api.csproj",
         "projectName": "LivrariaVirtual.Api",
-        "projectPath": "D:\\_Projetos\\livraria-virtual-master\\back-end\\src\\DevIO.Api\\LivrariaVirtual.Api.csproj",
+        "projectPath": "D:\\_Projetos\\livraria-virtual\\back-end\\src\\DevIO.Api\\LivrariaVirtual.Api.csproj",
         "packagesPath": "C:\\Users\\porff\\.nuget\\packages\\",
-        "outputPath": "D:\\_Projetos\\livraria-virtual-master\\back-end\\src\\DevIO.Api\\obj\\",
+        "outputPath": "D:\\_Projetos\\livraria-virtual\\back-end\\src\\DevIO.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\_Projetos\\livraria-virtual-master\\back-end\\src\\DevIO.Business\\LivrariaVirtual.Business.csproj": {
-                "projectPath": "D:\\_Projetos\\livraria-virtual-master\\back-end\\src\\DevIO.Business\\LivrariaVirtual.Business.csproj"
+              "D:\\_Projetos\\livraria-virtual\\back-end\\src\\DevIO.Business\\LivrariaVirtual.Business.csproj": {
+                "projectPath": "D:\\_Projetos\\livraria-virtual\\back-end\\src\\DevIO.Business\\LivrariaVirtual.Business.csproj"
               },
-              "D:\\_Projetos\\livraria-virtual-master\\back-end\\src\\DevIO.Data\\LivrariaVirtual.Data.csproj": {
-                "projectPath": "D:\\_Projetos\\livraria-virtual-master\\back-end\\src\\DevIO.Data\\LivrariaVirtual.Data.csproj"
+              "D:\\_Projetos\\livraria-virtual\\back-end\\src\\DevIO.Data\\LivrariaVirtual.Data.csproj": {
+                "projectPath": "D:\\_Projetos\\livraria-virtual\\back-end\\src\\DevIO.Data\\LivrariaVirtual.Data.csproj"
               }
             }
           }
@@ -162,14 +162,14 @@
         }
       }
     },
-    "D:\\_Projetos\\livraria-virtual-master\\back-end\\src\\DevIO.Business\\LivrariaVirtual.Business.csproj": {
+    "D:\\_Projetos\\livraria-virtual\\back-end\\src\\DevIO.Business\\LivrariaVirtual.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\_Projetos\\livraria-virtual-master\\back-end\\src\\DevIO.Business\\LivrariaVirtual.Business.csproj",
+        "projectUniqueName": "D:\\_Projetos\\livraria-virtual\\back-end\\src\\DevIO.Business\\LivrariaVirtual.Business.csproj",
         "projectName": "LivrariaVirtual.Business",
-        "projectPath": "D:\\_Projetos\\livraria-virtual-master\\back-end\\src\\DevIO.Business\\LivrariaVirtual.Business.csproj",
+        "projectPath": "D:\\_Projetos\\livraria-virtual\\back-end\\src\\DevIO.Business\\LivrariaVirtual.Business.csproj",
         "packagesPath": "C:\\Users\\porff\\.nuget\\packages\\",
-        "outputPath": "D:\\_Projetos\\livraria-virtual-master\\back-end\\src\\DevIO.Business\\obj\\",
+        "outputPath": "D:\\_Projetos\\livraria-virtual\\back-end\\src\\DevIO.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -226,14 +226,14 @@
         }
       }
     },
-    "D:\\_Projetos\\livraria-virtual-master\\back-end\\src\\DevIO.Data\\LivrariaVirtual.Data.csproj": {
+    "D:\\_Projetos\\livraria-virtual\\back-end\\src\\DevIO.Data\\LivrariaVirtual.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\_Projetos\\livraria-virtual-master\\back-end\\src\\DevIO.Data\\LivrariaVirtual.Data.csproj",
+        "projectUniqueName": "D:\\_Projetos\\livraria-virtual\\back-end\\src\\DevIO.Data\\LivrariaVirtual.Data.csproj",
         "projectName": "LivrariaVirtual.Data",
-        "projectPath": "D:\\_Projetos\\livraria-virtual-master\\back-end\\src\\DevIO.Data\\LivrariaVirtual.Data.csproj",
+        "projectPath": "D:\\_Projetos\\livraria-virtual\\back-end\\src\\DevIO.Data\\LivrariaVirtual.Data.csproj",
         "packagesPath": "C:\\Users\\porff\\.nuget\\packages\\",
-        "outputPath": "D:\\_Projetos\\livraria-virtual-master\\back-end\\src\\DevIO.Data\\obj\\",
+        "outputPath": "D:\\_Projetos\\livraria-virtual\\back-end\\src\\DevIO.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -254,8 +254,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\_Projetos\\livraria-virtual-master\\back-end\\src\\DevIO.Business\\LivrariaVirtual.Business.csproj": {
-                "projectPath": "D:\\_Projetos\\livraria-virtual-master\\back-end\\src\\DevIO.Business\\LivrariaVirtual.Business.csproj"
+              "D:\\_Projetos\\livraria-virtual\\back-end\\src\\DevIO.Business\\LivrariaVirtual.Business.csproj": {
+                "projectPath": "D:\\_Projetos\\livraria-virtual\\back-end\\src\\DevIO.Business\\LivrariaVirtual.Business.csproj"
               }
             }
           }
