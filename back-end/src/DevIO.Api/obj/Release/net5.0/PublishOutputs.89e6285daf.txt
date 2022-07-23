@@ -1,13 +1,17 @@
 D:\_Projetos\livraria-virtual\back-end\src\DevIO.Api\obj\Release\net5.0\PubTmp\Out\LivrariaVirtual.Api.exe
+D:\_Projetos\livraria-virtual\back-end\src\DevIO.Api\obj\Release\net5.0\PubTmp\Out\wwwroot\0079ed90-b314-4f69-b143-8c9f307658be_html5.jpg
 D:\_Projetos\livraria-virtual\back-end\src\DevIO.Api\obj\Release\net5.0\PubTmp\Out\wwwroot\02599d27-d0dd-4781-a9bc-74001f66c946_Razor.jpg
 D:\_Projetos\livraria-virtual\back-end\src\DevIO.Api\obj\Release\net5.0\PubTmp\Out\wwwroot\075d98e3-226f-49d1-9a50-1c4b0c19fd83_comecando-com-react.jpg
 D:\_Projetos\livraria-virtual\back-end\src\DevIO.Api\obj\Release\net5.0\PubTmp\Out\wwwroot\264842ac-5502-4f7f-9807-c74c7e7da393_MVC5.jpg
+D:\_Projetos\livraria-virtual\back-end\src\DevIO.Api\obj\Release\net5.0\PubTmp\Out\wwwroot\381878bb-b89e-4797-a0db-a35904fe5050_Angular.jpg
 D:\_Projetos\livraria-virtual\back-end\src\DevIO.Api\obj\Release\net5.0\PubTmp\Out\wwwroot\8725a330-ac75-4577-a290-66f54b751677_React.jpg
 D:\_Projetos\livraria-virtual\back-end\src\DevIO.Api\obj\Release\net5.0\PubTmp\Out\wwwroot\a9dc4820-27d6-4212-a048-2494ecae9549_Java.jpg
 D:\_Projetos\livraria-virtual\back-end\src\DevIO.Api\obj\Release\net5.0\PubTmp\Out\wwwroot\b5e7867e-5e2b-448f-8230-f04a5a4d212a_Angular.jpg
 D:\_Projetos\livraria-virtual\back-end\src\DevIO.Api\obj\Release\net5.0\PubTmp\Out\wwwroot\c6a8ce08-7810-4457-aa33-acee87105019_Angular.jpg
+D:\_Projetos\livraria-virtual\back-end\src\DevIO.Api\obj\Release\net5.0\PubTmp\Out\wwwroot\d3054dca-cc45-4b71-9605-15808c73d8cc_AspNetCore.jpg
 D:\_Projetos\livraria-virtual\back-end\src\DevIO.Api\obj\Release\net5.0\PubTmp\Out\wwwroot\f3faef92-8bbf-44bd-8ba1-76023db0212d_html5.jpg
 D:\_Projetos\livraria-virtual\back-end\src\DevIO.Api\obj\Release\net5.0\PubTmp\Out\wwwroot\fc172765-d951-4647-9381-a06bff7e618e_Angular.jpg
+D:\_Projetos\livraria-virtual\back-end\src\DevIO.Api\obj\Release\net5.0\PubTmp\Out\wwwroot\fdffda9f-5e34-4204-99dc-18e138463902_React.jpg
 D:\_Projetos\livraria-virtual\back-end\src\DevIO.Api\obj\Release\net5.0\PubTmp\Out\web.config
 D:\_Projetos\livraria-virtual\back-end\src\DevIO.Api\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
 D:\_Projetos\livraria-virtual\back-end\src\DevIO.Api\obj\Release\net5.0\PubTmp\Out\appsettings.json

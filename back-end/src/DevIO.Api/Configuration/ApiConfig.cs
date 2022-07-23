@@ -31,21 +31,12 @@ namespace DevIO.Api.Configuration
 
             services.AddCors(options =>
             {
-                options.AddPolicy("Development",
+                options.AddPolicy("CorsPolicy",
                     builder =>
                         builder
-                        .AllowAnyOrigin()
+                        .WithOrigins("*")
                         .AllowAnyMethod()
                         .AllowAnyHeader());
-
-
-                options.AddPolicy("Production",
-                    builder =>
-                        builder
-                            .WithMethods()
-                            .WithOrigins()
-                            .SetIsOriginAllowedToAllowWildcardSubdomains()
-                            .AllowAnyHeader());
             });
 
 
@@ -56,7 +47,7 @@ namespace DevIO.Api.Configuration
         {
             app.UseRouting();
 
-            app.UseCors("Development");
+            app.UseCors("CorsPolicy");
 
             app.UseAuthentication();
             app.UseAuthorization();

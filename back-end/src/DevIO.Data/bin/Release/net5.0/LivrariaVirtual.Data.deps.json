@@ -1417,7 +1417,8 @@
       },
       "LivrariaVirtual.Business/1.0.0": {
         "dependencies": {
-          "FluentValidation": "8.6.2"
+          "FluentValidation": "8.6.2",
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.0"
         },
         "runtime": {
           "LivrariaVirtual.Business.dll": {}
